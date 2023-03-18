@@ -12,6 +12,7 @@ public class Back1014javaApplication {
         System.out.println("hello git3houfix");
         System.out.println("hello git3master_test");
         System.out.println("hello git3houfix_test");
+        System.out.println("hello git3_push");
         SpringApplication.run(Back1014javaApplication.class, args);
 
     }
