@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+
+    <settings>
+<!--        log日志 标准屏幕输出-->
+        <setting name="logImpl" value="STDOUT_LOGGING" />
+<!--        驼峰命名转换  列如：表字段 student_phone  类属性StudentPhone-->
+        <setting name="mapUnderscoreToCamelCase" value="true" />
+    </settings>
+
+</configuration>
